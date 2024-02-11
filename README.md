@@ -35,7 +35,7 @@ Neste desafio empolgante, mergulharemos fundo no universo do **Spark** para expl
 ## 🎞️Imagens do Projeto
 
 ###### Imagem 2: Gráfico de dispersão bidimensional utilizando biblioteca Plotly
-<img src="/img/img-grafico-dispersãopng">
+<img src="/img/img-grafico-dispersao.png">
 
 ###### Imagem 3: API do Spotify
 <img src="/img/img-api-spotify.png">
